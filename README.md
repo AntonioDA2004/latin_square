@@ -1,5 +1,5 @@
 # latin_square
-Latin square - Version 1.0
+Latin square
 
 # Version 1.0
 JavaDoc partially missing - will update in the future
